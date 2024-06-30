@@ -7,8 +7,6 @@
 
 ---
 
-<br>
-
 # Languages, Frameworks and Tools
 
 <p align="center">
