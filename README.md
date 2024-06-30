@@ -1,5 +1,8 @@
+<img src="https://github.com/lucasleos/lucasleos/assets/101786950/7c54c75b-395b-455f-8a23-56360bdb81f9" alt="SpFEOOfuHBcyrEIkuC" width="100%"/>
+
+---
+
 <h1 align="center">
-  <img src="https://github.com/lucasleos/lucasleos/assets/101786950/7c54c75b-395b-455f-8a23-56360bdb81f9" alt="SpFEOOfuHBcyrEIkuC" width="90"/>
   Buenas!!! <a href="https://www.blackcater.win/" target="_blank"></a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
