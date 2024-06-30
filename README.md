@@ -6,15 +6,14 @@
 
 <br>
 
-# Skills
+# Languages, Frameworks and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,java,kotlin,c,angular,spring,docker,git,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=typescript,java,kotlin,c,angular,spring,mysql,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,androidstudio,bash,eclipse,postgres,idea" />
   </a>
 </p>
-
-<br>
 
 # Stats
 
