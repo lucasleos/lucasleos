@@ -21,6 +21,6 @@
 # Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleos&layout=compact&langs_count=10&theme=dark&border_radius=10" alt="Top Langs" width="400" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleos&layout=compact&theme=dark&border_radius=10" alt="Top Langs" width="400" align="left" />
   <img src="https://github-readme-stats.vercel.app/api?username=lucasleos&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border_radius=10" alt="GitHub Stats" width="400" align="right"/>
 </p>
