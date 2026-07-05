@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucasleosuarez/">💼 LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/lucasleosuarez/" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a> ·
   <a href="mailto:lucasleosuarez@gmail.com?subject=Hola%20Lucas&body=Me%20pongo%20en%20contacto%20para%20saber%20más%20sobre...">📫 Contacto</a>
 </p>
 
